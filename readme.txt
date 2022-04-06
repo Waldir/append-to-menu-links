@@ -1,5 +1,6 @@
 === Append to menu links ===
 Contributors: waldirb
+Donate link: https://Ko-fi.com/waldirb
 Tags: menu, links, hash, append, menu-items
 Requires at least: 4.7
 Tested up to: 5.9.1
