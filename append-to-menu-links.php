@@ -2,7 +2,7 @@
 /*
 Plugin Name: Append to Menu Links
 Description: Append a string such as a hash to the end of menu links. Useful for creating a menu that links to a section of a page without having to create a custom link or to add parameters to a page's URL.
-Version: 1.0.0
+Version: 1.0.1
 Author: Waldir Bolanos
 Author URI: https:/waldirb.com
 Text Domain: append-to-menu-links
